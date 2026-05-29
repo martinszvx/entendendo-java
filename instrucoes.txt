@@ -1,0 +1,12 @@
+Como Gerar Getters e Setters Automaticamente
+Abra o arquivo da classe onde estão as suas variáveis.
+Clique com o botão direito em qualquer local do editor de código.
+Selecione a opção Source Action... (Ação de Fonte).
+Clique em Generate Getters and Setters... (Gerar Getters e Setters).
+Selecione os atributos que você deseja encapsular na lista que aparecer.
+
+O que isso faz?
+Essa ação gera automaticamente os métodos de leitura (get) e escrita (set) para
+os atributos da sua classe.
+Isso poupa tempo de digitação e garante o encapsulamento correto 
+do seu código, protegendo o acesso direto às variáveis privadas.
